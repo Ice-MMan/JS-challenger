@@ -33,14 +33,6 @@
 
 //!! "ATTGC" --> "TAACG"
 
-keys = {
-  A: "T",
-  T: "A",
-  C: "G",
-  G: "C",
-};
+![image](https://user-images.githubusercontent.com/109246384/191364122-013af047-511f-4cc7-8d4a-83ab8688d1e3.png)
 
-DNAStrand = (dna) => [...dna].map((x) => keys[x]).join("");
-
-console.log(DNAStrand("ATCG"));
 
