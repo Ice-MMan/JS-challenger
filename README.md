@@ -36,3 +36,17 @@
 ![image](https://user-images.githubusercontent.com/109246384/191364122-013af047-511f-4cc7-8d4a-83ab8688d1e3.png)
 
 
+5. //#Find the missing letter
+
+Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
+
+You will always get an valid array. And it will be always exactly one letter be missing. The length of the array will always be at least 2.
+The array will always contain letters in only one case.
+
+Example:
+
+['a','b','c','d','f'] -> 'e' ['O','Q','R','S'] -> 'P'
+
+![image](https://user-images.githubusercontent.com/109246384/191372909-b7dd1c16-bf90-4bae-a3bf-a1c8cd5c245f.png)
+
+
