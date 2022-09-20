@@ -11,3 +11,11 @@
 //! An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
 
 ![image](https://user-images.githubusercontent.com/109246384/191354913-8206b813-071d-408a-b6c1-7b8a1c965367.png)
+
+
+//! Implement the function unique_in_order which takes as argument a sequence and returns a list of items without
+//! any elements with the same value next to each other and preserving the original order of elements.
+
+
+![image](https://user-images.githubusercontent.com/109246384/191358631-25a2e4fe-4a41-459d-924b-4fb9b8ce205a.png)
+
