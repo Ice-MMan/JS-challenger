@@ -49,7 +49,7 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/109246384/191372909-b7dd1c16-bf90-4bae-a3bf-a1c8cd5c245f.png)
 
-// You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
+6.// You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
 
 // Implement the function which takes an array containing the names of people that like an item. It must return the display text as shown in the examples:
 
@@ -63,7 +63,7 @@ Example:
 ![image](https://user-images.githubusercontent.com/109246384/191861604-616f9448-0c19-4bce-b161-7e1954c62b63.png)
 
 
-// '(', '{', '[' are called "openers."
+7.// '(', '{', '[' are called "openers."
 // ')', '}', ']' are called "closers."
 // Write an efficient function that tells us whether or not an input string's openers and closers are properly nested.
 
@@ -79,6 +79,20 @@ Example:
 
 
 ![image](https://user-images.githubusercontent.com/109246384/192039478-b424c5e4-eaad-47ad-87b3-0f1a7492aa4b.png)
+
+
+8. // Given an array of integers, find the one that appears an odd number of times.
+
+// There will always be only one integer that appears an odd number of times.
+
+// Examples
+// [7] should return 7, because it occurs 1 time (which is odd).
+// [0] should return 0, because it occurs 1 time (which is odd).
+// [1,1,2] should return 2, because it occurs 1 time (which is odd).
+// [0,1,0,1,0] should return 0, because it occurs 3 times (which is odd).
+// [1,2,2,3,3,3,4,3,3,3,2,2,1] should return 4, because it appears 1 time (which is odd).
+
+![image](https://user-images.githubusercontent.com/109246384/192051335-aa52b5bd-2da2-4472-8364-730510c050e1.png)
 
 
 
