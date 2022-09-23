@@ -63,4 +63,23 @@ Example:
 ![image](https://user-images.githubusercontent.com/109246384/191861604-616f9448-0c19-4bce-b161-7e1954c62b63.png)
 
 
+// '(', '{', '[' are called "openers."
+// ')', '}', ']' are called "closers."
+// Write an efficient function that tells us whether or not an input string's openers and closers are properly nested.
+
+// Examples:
+
+// "{ ( )[ ]  }" should return true
+// "{ [ ( ] ) }" should return false
+// "{ [ }" should return false
+// Simply making sure each opener has a corresponding closer is not enough—we must also confirm that they are correctly ordered.
+// For example, "{ [ ( ] ) }" should return false, even though each opener can be matched to a closer.
+
+
+
+
+![image](https://user-images.githubusercontent.com/109246384/192039478-b424c5e4-eaad-47ad-87b3-0f1a7492aa4b.png)
+
+
+
 
