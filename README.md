@@ -114,3 +114,16 @@ Example:
 ![image](https://user-images.githubusercontent.com/109246384/192058838-b32b01bc-aa45-4f5b-a9fd-1be83ed38548.png)
 
 
+11.Your task, is to create NxN multiplication table, of size provided in parameter.
+
+for example, when given size is 3:
+
+1 2 3
+2 4 6
+3 6 9
+for given example, the return value should be: [[1,2,3],[2,4,6],[3,6,9]]
+
+![image](https://user-images.githubusercontent.com/109246384/193689287-f6af392d-0c2d-4eeb-922b-1ffafb090c49.png)
+
+
+
